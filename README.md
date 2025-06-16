@@ -28,7 +28,6 @@ This project presents a comprehensive **retail data analysis** dashboard built e
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot]()![Vrinda Store Annual Report 2025](https://github.com/user-attachments/assets/6f34adc2-bc83-4bbc-a3ba-876adc5323f9)
-![Vrinda Store Annual Report 2025](https://github.com/user-attachments/assets/6f34adc2-bc83-4bbc-a3ba-876adc5323f9)
 
 
 ---
