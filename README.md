@@ -1,4 +1,4 @@
-# 📊 Vrinda Store Annual Report 2025 – Excel Dashboard
+![Vrinda Store Annual Report 2025](https://github.com/user-attachments/assets/bca0d725-9b79-474e-bf11-ff3bd936eb65)![Vrinda Store Annual Report 2025](https://github.com/user-attachments/assets/bca0d725-9b79-474e-bf11-ff3bd936eb65)# 📊 Vrinda Store Annual Report 2025 – Excel Dashboard
 
 This project presents a comprehensive **retail data analysis** dashboard built entirely using **Microsoft Excel**. It visualizes sales, customer demographics, and order metrics to uncover key business insights for **Vrinda Store** in the year 2025.
 
@@ -27,7 +27,9 @@ This project presents a comprehensive **retail data analysis** dashboard built e
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](insert_image_link_here)
+![Dashboard Screenshot]()![Vrinda Store Annual Report 2025](https://github.com/user-attachments/assets/6f34adc2-bc83-4bbc-a3ba-876adc5323f9)
+![Vrinda Store Annual Report 2025](https://github.com/user-attachments/assets/6f34adc2-bc83-4bbc-a3ba-876adc5323f9)
+
 
 ---
 
