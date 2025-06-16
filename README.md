@@ -44,15 +44,9 @@ This project presents a comprehensive **retail data analysis** dashboard built e
 
 ## 📁 File Contents
 
-- `Vrinda_Store_Annual_Report_2025.xlsx` – Main Excel file with dashboard and charts
 - `screenshots/` – Contains preview images of the dashboard
 
 ---
-
-## 🔗 How to View
-
-> You can open the Excel file in any version of **Microsoft Excel (2013 or later)** to explore the dashboard.
-
 ---
 
 ## 🙋‍♂️ Author
