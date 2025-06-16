@@ -52,5 +52,5 @@ This project presents a comprehensive **retail data analysis** dashboard built e
 ## 🙋‍♂️ Author
 
 **Hitesh Pache**  
-[LinkedIn Profile](https://www.linkedin.com/in/hitesh-pache-10568b2a2/)  
+[LinkedIn Profile](https://www.linkedin.com/in/hitesh-pache/)  
 📫 Open to internships, freelance, or full-time data analyst roles
